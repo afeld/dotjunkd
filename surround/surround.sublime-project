@@ -7,7 +7,7 @@
 				".junk",
 				"app/assets/javascripts/test/app",
 				"log",
-				"public/docs/output",
+				"public/docs",
 				"tmp"
 			]
 		}
