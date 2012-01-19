@@ -1,6 +1,6 @@
 # Hide log, vendor and tmp directories from search popups.
 #
-myExtraExcludes = "log,vendor,tmp,public/docs"
+myExtraExcludes = "log,public/docs,public/system,tmp,vendor"
 excludeInFileChooser  = "{$excludeInFileChooser,$myExtraExcludes}"
 excludeInFolderSearch = "{$excludeInFolderSearch,$myExtraExcludes}"
 

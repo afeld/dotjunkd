@@ -3,7 +3,13 @@
 	[
 		{
 			"path": "/Users/aidan/dev/surround",
-			"folder_exclude_patterns": ["log", "public/docs/output", "tmp", ".junk"]
+			"folder_exclude_patterns": [
+				".junk",
+				"app/assets/javascripts/test/app",
+				"log",
+				"public/docs/output",
+				"tmp"
+			]
 		}
 	]
 }
